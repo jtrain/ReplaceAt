@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
@@ -22,18 +22,17 @@
 			<key>File</key>
 			<string>owen</string>
 			<key>Keyword</key>
-			<string>@owen</string>
+			<string>@@owen</string>
 			<key>Title</key>
 			<string>Owen</string>
 			<key>Prefix Only</key>
 			<false/>
-
 		</dict>
 		<dict>
 			<key>File</key>
 			<string>adam</string>
 			<key>Keyword</key>
-			<string>@adam</string>
+			<string>@@adam</string>
 			<key>Title</key>
 			<string>Adam</string>
 			<key>Prefix Only</key>
@@ -43,13 +42,12 @@
 			<key>File</key>
 			<string>caue</string>
 			<key>Keyword</key>
-			<string>@caue</string>
+			<string>@@caue</string>
 			<key>Title</key>
 			<string>Caue</string>
 			<key>Prefix Only</key>
 			<false/>
 		</dict>
-
 	</array>
 </dict>
 </plist>
